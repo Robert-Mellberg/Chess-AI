@@ -41,12 +41,20 @@ There are still ways to optimize the algorithm by skipping unnecessary computati
 
 ## How to install the game
 
-**Note** that the game can only run on windows.
+### Install on Windows
 
 1. Go to the latest [release](https://github.com/Robert-Mellberg/Chess-AI/releases/tag/v1.0)
 2. Download the compressed folder Chess-AI.zip under "Assets"
 3. Right click the folder and choose "Extract All"
 4. Start the game by launching SchackSpel.exe
+
+### Install on android
+
+1. Go to the latest [release](https://github.com/Robert-Mellberg/Chess-AI/releases/tag/v1.0) with the android application
+2. Download the APK file called Chess.apk
+3. Press open file when prompted to do so
+4. Press install
+5. Start the game by launching the application
 
 ## How to install the Unity project
 
